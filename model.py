@@ -1,6 +1,6 @@
 # %% [markdown]
 # # Train Iris classification model
-# 
+# max
 # Here we're going to create a classification model for the IRIS dataset.
 # The first thing we want to do is import the packages we need.
 # Three common python packages for scientific computing are numpy, scikit-learn, and pandas.
