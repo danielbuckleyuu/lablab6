@@ -10,7 +10,7 @@ jobs:
     name: testJob
     runs-on: ubuntu-latest
     steps:
-      - name: Run echo "Hi! I'm running because of a push event."
+      - name: Run echo "Hi! I'm running because of a push event for azure."
         run: echo "Hi! I'm running because of a push event."
 
       - name: Run echo "Checking out the repository from ${{ github.repository }}."
